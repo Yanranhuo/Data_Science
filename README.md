@@ -2,4 +2,4 @@
 
 #### Projects using graphlab, pandas, numpy, matplot, etc.
 
-<By> Yanran Huo <By>
+<By> By: Yanran Huo <By>
