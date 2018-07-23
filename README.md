@@ -1,5 +1,5 @@
 # Data_Science
 
-#### Projects using graphlab, pandas, numpy, matplot, etc.
+#### Projects using Python and Machine learning.
 
 <By> By: Yanran Huo <By>
